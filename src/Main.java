@@ -7,7 +7,7 @@ public class Main {
         ProduceManager produceManager = new ProduceManager();
 
         // Optional: Preload some produce types
-        produceManager.addProduceType("Apple");
+        produceManager.addProduceType("Orange");
         produceManager.addProduceType("Banana");
         produceManager.addProduceType("Carrot");
         produceManager.addProduceType("Potato");
