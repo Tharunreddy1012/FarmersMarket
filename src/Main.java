@@ -7,11 +7,11 @@ public class Main {
         ProduceManager produceManager = new ProduceManager();
 
         // Optional: Preload some produce types
-        produceManager.addProduceType("Orange");
-        produceManager.addProduceType("Banana");
-        produceManager.addProduceType("Carrot");
-        produceManager.addProduceType("Potato");
-        produceManager.addProduceType("Tomato");
+        produceManager.addProduceType("Kiwi");
+        produceManager.addProduceType("Muskmelon");
+        produceManager.addProduceType("cabbage");
+        produceManager.addProduceType("cauliflower");
+        produceManager.addProduceType("onions");
 
         while (true) {
             System.out.println("\n==== Farmer's Market Menu ====");
