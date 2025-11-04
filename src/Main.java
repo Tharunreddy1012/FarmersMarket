@@ -12,6 +12,7 @@ public class Main {
         produceManager.addProduceType("cabbage");
         produceManager.addProduceType("cauliflower");
         produceManager.addProduceType("onions");
+        produceManager.addProduceType("pear");
 
         while (true) {
             System.out.println("\n==== Farmer's Market Menu ====");
