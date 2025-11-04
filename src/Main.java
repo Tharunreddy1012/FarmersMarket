@@ -13,6 +13,7 @@ public class Main {
         produceManager.addProduceType("cauliflower");
         produceManager.addProduceType("onions");
         produceManager.addProduceType("Peach");
+        produceManager.addProduceType("grape")
 
 
         while (true) {
